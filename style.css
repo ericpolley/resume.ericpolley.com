@@ -1,0 +1,51 @@
+.text-right {
+    text-align: right;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.hr {
+
+    height: 3px;
+    width: 75%;
+    border-color: black;
+    background-color: black;
+
+}
+
+.hrsmall {
+
+    height: 3px;
+    width: 50%;
+    border-color: black;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+
+}
+
+.background {
+    background-color: rgba(245, 219, 187, 0.6);
+    
+}
+
+.skills {
+    font-size: 120%;
+}
+
+.skillTitle {
+padding-top: 20px;
+
+
+} 
+
+.spacer {
+    height: 7px;
+}
+
+.m-bottom {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
