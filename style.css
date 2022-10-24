@@ -27,7 +27,7 @@
 }
 
 .background {
-    background-color: rgba(245, 219, 187, 0.6);
+    background-color: rgba(197, 215, 226, 0.6);
     
 }
 
@@ -54,4 +54,15 @@ padding-top: 20px;
 body {
     font-size: 80%;
 }
+}
+
+body {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-fluid {
+    width: 90%;
 }
